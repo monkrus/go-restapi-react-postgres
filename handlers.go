@@ -6,10 +6,10 @@ import (
 )
 
 func IndexHandler(w http.ResponseWriter, r *http.Request) {
-	fmt.Fprintf(w, "test")
+	fmt.Fprintf(w, "<div><h1> test </div></h1>")
 }
 
 func SuslikHandler(w http.ResponseWriter, r *http.Request) {
-	fmt.Fprintf(w, <b> "test 1" </b>)
-	
+	fmt.Fprintf(w,"<b> test 1 </b>")
+
 }
