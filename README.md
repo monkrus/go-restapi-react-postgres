@@ -27,4 +27,4 @@ Lesson 0 (Урок 0)
 
 10. Use F5 in VS Code to select environment
 
-11. 
+
