@@ -1,8 +1,6 @@
 # Go + React.js + Docker + PostgreSQL. 
 [![go-doc](https://godoc.org/github.com/prometheus/client_golang?status.svg)](https://godoc.org/github.com/prometheus/client_golang)
 
-# Why use this?
-
 ## REST API tutorial:
 * [X] Lesson 0: [Setup project:'Hello, World'](https://www.youtube.com/watch?v=u4uhmbOoo4o&t=371s)
 <details>
@@ -15,7 +13,7 @@
 6. Add a `router` to interract with HTPP requests<br/>
 7. Add IndexHandler function (has access to any part of the HTTM page)<br/>
 8. `CTRL+s` to update the libraries<br/>
-9. [List of open TCP and UDP ports] : (https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers)<br/>
+9. <a href="https://en.wikipedia.org/wiki/">List_of_TCP_and_UDP_port_numbers</a><br/>
 10. LINUX users: run `go build` , the runfrom the current directory (e.g. `sudo ./yourexample`)<br/>
 11. Use F5 in VS Code to select environment<br/>
 </details>
@@ -25,5 +23,7 @@
 * [ ] Lesson 3: ...
 
 ## FAQ
+...
 
 ## Donations
+...
