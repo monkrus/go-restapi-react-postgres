@@ -14,7 +14,7 @@
 7. Add IndexHandler function (has access to any part of the HTTM page)<br/>
 8. `CTRL+s` to update the libraries<br/>
 9. <a href="https://en.wikipedia.org/wiki/">List_of_TCP_and_UDP_port_numbers</a><br/>
-10. LINUX users: run `go build` , the runfrom the current directory (e.g. `sudo ./yourexample`)<br/>
+10. LINUX users: run `go build` , the run from the current directory (e.g. `sudo ./yourexample`)<br/>
 11. Use F5 in VS Code to select environment<br/>
 </details>
 
