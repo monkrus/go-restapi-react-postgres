@@ -18,12 +18,12 @@
 11. Use F5 in VS Code to select environment<br/>
 </details>
 
-* [ ] Lesson 1: [add React.js](https://www.youtube.com/watch?v=u4uhmbOoo4o&t=371s)
+* [ ] Lesson 1: [add React.js]()
 * [ ] Lesson 2: ...
 * [ ] Lesson 3: ...
 
 ## FAQ
-...
+TBD
 
 ## Donations
-...
+TBD
