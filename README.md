@@ -16,14 +16,6 @@
 9. <a href="https://en.wikipedia.org/wiki/">List_of_TCP_and_UDP_port_numbers</a><br/>
 10. LINUX users: run `go build` , the run from the current directory (e.g. `sudo ./yourexample`)<br/>
 11. Use F5 in VS Code to select environment<br/>
-</details>
+</details>.
 
-* [ ] Lesson 1: [add React.js]()
-* [ ] Lesson 2: ...
-* [ ] Lesson 3: ...
 
-## FAQ
-TBD
-
-## Donations
-TBD
